@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But not these files...
+!name_*.sav
+!playing.md
+!users.md
+# etc...
+
+# ...even if they are in subdirectories
+!*/
