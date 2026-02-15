@@ -47,3 +47,6 @@ Add all members to a users.md in your save file folder.
 Run file before.bat via console or double click before starting game. If cloud save is enabled this might tigger a sync event with your save provider (Steam, Epic, GoG)
 
 Run file after.bat via console or double click after finishing gaming session. This will remove your name as the checkout personon from playing.md and syncs the new save files to the created git repo.
+
+# Note
+Some games already provide this service. Anno 117 calles this a live game.
